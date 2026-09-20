@@ -1,0 +1,6 @@
+MinuteLaunch My Dash default pictures
+Contemporary enamel family. Orange live mark. Same host as Fernando.
+Absolute URL:
+https://raw.githubusercontent.com/wplaunchify/ml-assets/main/dash-icons/{name}.png
+The hub adds ?ver= so a later set with the same name can bust cache.
+Not Apple art. Not a Noun Project pack.
